@@ -55,9 +55,9 @@ Aquí tienes algunos de mis proyectos más interesantes:
   <h3>¡Conéctate conmigo! 🤝</h3>
   <p>¿Tienes una idea genial o quieres colaborar en algún proyecto? ¡Me encantaría saber de ti!</p>
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frontenddesing.manuel@gmail.com)
-  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itManuelMendoza)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-mendoza-635914360)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnrtipula@gmail.com)
+  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/johntipula)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johntipula)
 
   <p>¡Gracias por visitar mi perfil! 😊</p>
 

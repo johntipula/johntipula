@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
 
   <h2>¡Hola! 👋 Soy John</h2>
-<h1>Desarrollador Frontend | Apasionado por lo moderno✨</h1>
+<h1>Desarrollador Frontend & Backend | Apasionado por lo moderno✨</h1>
+<h2>Full Stack Developer</h2>
 Website & Software Developer. Possibilities enthusiast. Sarcastic, intelligent, music lover, more cronopio than fame.
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=johntipula&style=for-the-badge&color=blue" alt="Profile views" />
   </div>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-mendoza-635914360)
-  [![X](https://img.shields.io/badge/Sígueme-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itManuelMendoza)
-  [![GitHub](https://img.shields.io/badge/Visita_mi_portafolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuel-Mendoza)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johntipula)
+  [![X](https://img.shields.io/badge/Sígueme-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/johntipula)
+  [![GitHub](https://img.shields.io/badge/Visita_mi_portafolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johntipula)
 </div>
-
 
 ---
 

@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
 
   <h2>¡Hola! 👋 Soy John</h2>
-<h1>Desarrollador Frontend & Backend | Pixels & Codes✨</h1>
+<h1>Dev Frontend & Backend | Pixels & Codes✨</h1>
   <h2>Full Stack Developer. Entusiasta, Melómano, más Cronopio que Fama.</h2>
 
   <div>

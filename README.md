@@ -2,9 +2,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
 
   <h2>¡Hola! 👋 Soy John</h2>
-  <h2>Full Stack Developer</h2>
-<h1>Desarrollador Frontend & Backend | Apasionado por lo moderno✨</h1>
-Website & Software Developer. Possibilities enthusiast. Sarcastic, intelligent, music lover, more cronopio than fame.
+<h1>Desarrollador Frontend & Backend | Pixels & Codes✨</h1>
+  <h2>Full Stack Developer. Entusiasta, Melómano, más Cronopio que Fama.</h2>
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=johntipula&style=for-the-badge&color=blue" alt="Profile views" />

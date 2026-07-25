@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
 
-  <h2>¡Hola! 👋 Soy Manuel</h2>
+  <h2>¡Hola! 👋 Soy John</h2>
 <h1>Desarrollador Frontend | Apasionado por lo moderno✨</h1>
+Website & Software Developer. Possibilities enthusiast. Sarcastic, intelligent, music lover, more cronopio than fame.
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=Manuel-Mendoza&style=for-the-badge&color=blue" alt="Profile views" />
